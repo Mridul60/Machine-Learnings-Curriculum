@@ -10,11 +10,11 @@ Additionally, the project simulates **epochs** by re-training the model multiple
 Assignment2/
 
 │── Housing.csv                            # Dataset (input file)  | Source: Kaggle 
-│── housing_prediction.ipynb    
+│── house_price_prediction.ipynb    
 │── README.md                              # Documentation  
-├── price_vs_area regression.png           # Scatter plot of Price vs Area with regression line  
-├── epoch_vs_accuracy.png                  # Accuracy (R²) vs Epoch graph  
-└── epoch_vs_loss.png                      # Loss (MSE) vs Epoch graph  
+├── price v area regression.png           # Scatter plot of Price vs Area with regression line  
+├── epoch v accuracy.png                  # Accuracy (R²) vs Epoch graph  
+└── epoch v loss.png                      # Loss (MSE) vs Epoch graph  
 
 
 ---
